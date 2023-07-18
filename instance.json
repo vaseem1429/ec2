@@ -38,7 +38,7 @@ Resources:
       Tags:
         -
           Key: Name
-          Value: myserver
+          Value:cloud
       Volumes:
         -
           Device: "/dev/sdf"
